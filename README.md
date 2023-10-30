@@ -89,6 +89,8 @@
 
 #### [2023/02] [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/pdf/2302.10866.pdf)
 
+#### [2023/04] [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf)
+
 #### [2023/06] [Block-State Transformer](https://arxiv.org/pdf/2306.09539.pdf)
 
 #### [2023/07] [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf)
@@ -119,6 +121,8 @@
 
 ## Benchmarks
 #### [2020/11] [Long Range Arena: A Benchmark for Efficient Transformers](https://arxiv.org/pdf/2011.04006.pdf)
+
+#### [2023/01] [LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization](https://arxiv.org/pdf/2301.13298.pdf)
 
 #### [2023/08] [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/pdf/2308.14508.pdf)
 
