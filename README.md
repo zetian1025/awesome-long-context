@@ -126,6 +126,8 @@
 
 #### [2023/08] [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/pdf/2308.14508.pdf)
 
+#### [2023/10] [M4LE: A MULTI-ABILITY MULTI-RANGE MULTITASK MULTI-DOMAIN LONG-CONTEXT EVALUATION BENCHMARK FOR LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.19240v1.pdf)
+
 ## Others
 #### [2023/07] [Zero-th Order Algorithm for Softmax Attention Optimization](https://arxiv.org/pdf/2307.08352.pdf)
 
