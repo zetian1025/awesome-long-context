@@ -56,13 +56,15 @@
 
 #### [2023/07] [Exploring Transformer Extrapolation](https://arxiv.org/pdf/2307.10156.pdf)
 
+#### [2023/09] [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/pdf/2309.00071.pdf)
+
+#### [2023/09] [Effective Long-Context Scaling of Foundation Models](https://arxiv.org/pdf/2309.16039.pdf)
+
 #### [2023/10] [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/pdf/2310.16450.pdf)
 
 
 ## Context Compression
 #### [2022/12] [Structured Prompting: Scaling In-Context Learning to 1,000 Examples](https://arxiv.org/pdf/2212.06713.pdf)
-
-#### [2023/04] [Unlocking Context Constraints of LLMs: Enhancing Context Efficiency of LLMs with Self-Information-Based Content Filtering](https://arxiv.org/pdf/2304.12102.pdf)
 
 #### [2023/05] [Efficient Prompting via Dynamic In-Context Learning](https://arxiv.org/pdf/2305.11170.pdf)
 
@@ -77,6 +79,8 @@
 #### [2023/10] [RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation](https://arxiv.org/pdf/2310.04408.pdf)
 
 #### [2023/10] [Compressing Context to Enhance Inference Efficiency of Large Language Models](https://arxiv.org/pdf/2310.06201.pdf)
+
+#### [2023/10] [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://arxiv.org/pdf/2310.05736.pdf)
 
 #### [2023/10] [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/pdf/2310.06839.pdf)
 
@@ -132,3 +136,5 @@
 #### [2023/07] [Zero-th Order Algorithm for Softmax Attention Optimization](https://arxiv.org/pdf/2307.08352.pdf)
 
 #### [2023/10] [(Dynamic) Prompting might be all you need to repair Compressed LLMs](https://arxiv.org/pdf/2310.00867.pdf)
+
+#### [2023/10] [Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors](https://arxiv.org/pdf/2310.02980.pdf)
