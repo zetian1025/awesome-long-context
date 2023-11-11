@@ -126,7 +126,11 @@
 ## Benchmarks
 #### [2020/11] [Long Range Arena: A Benchmark for Efficient Transformers](https://arxiv.org/pdf/2011.04006.pdf)
 
+#### [2022/01] [SCROLLS: Standardized CompaRison Over Long Language Sequences](https://arxiv.org/pdf/2201.03533.pdf)
+
 #### [2023/01] [LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization](https://arxiv.org/pdf/2301.13298.pdf)
+
+#### [2023/05] [ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding](https://arxiv.org/pdf/2305.14196.pdf)
 
 #### [2023/08] [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/pdf/2308.14508.pdf)
 
