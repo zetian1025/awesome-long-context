@@ -37,6 +37,7 @@
 
 #### [2023/07] [Focused Transformer: Contrastive Training for Context Scaling](https://arxiv.org/pdf/2307.03170.pdf)
 
+
 ## Positional Encoding
 #### [2021/04] [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)
 
@@ -135,6 +136,14 @@
 #### [2023/08] [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/pdf/2308.14508.pdf)
 
 #### [2023/10] [M4LE: A MULTI-ABILITY MULTI-RANGE MULTITASK MULTI-DOMAIN LONG-CONTEXT EVALUATION BENCHMARK FOR LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.19240v1.pdf)
+
+## Data
+
+#### [2023/12] [Structured Packing in LLM Training Improves Long Context Utilization](https://arxiv.org/abs/2312.17296)
+
+#### [2024/01] [LongAlign: A Recipe for Long Context Alignment of Large Language Models](https://arxiv.org/abs/2401.18058)
+
+#### [2024/02] [Data Engineering for Scaling Language Models to 128K Context](https://arxiv.org/abs/2402.10171)
 
 ## Others
 #### [2023/07] [Zero-th Order Algorithm for Softmax Attention Optimization](https://arxiv.org/pdf/2307.08352.pdf)
