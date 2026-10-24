@@ -145,6 +145,8 @@
 
 #### [2024/02] [Data Engineering for Scaling Language Models to 128K Context](https://arxiv.org/abs/2402.10171)
 
+#### [2025/08] [Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization](https://arxiv.org/abs/2508.13993)
+
 ## Others
 #### [2023/07] [Zero-th Order Algorithm for Softmax Attention Optimization](https://arxiv.org/pdf/2307.08352.pdf)
 
